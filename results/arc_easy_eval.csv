@@ -1,0 +1,11 @@
+id,question,answer_key,predicted_label,is_correct,confidence,top1_sum_logprob,top1_avg_logprob,margin,num_choices
+MCAS_2000_4_6,Which technology was developed most recently?,A,B,0,0.7137354305517284,-13.675689697265625,-13.675689697265625,1.0154190063476562,4
+Mercury_7057260,A student hypothesizes that algae are producers. Which question will best help the student determine if this is correct?,C,A,0,0.9727623766277589,-22.859437465667725,-3.809906244277954,3.8647818565368652,4
+ACTAAP_2014_7_6,Soccer players use their muscle systems to kick a ball into a goal. What organ system coordinates the muscles?,A,A,1,0.8348032771041627,-7.089040517807007,-2.363013505935669,2.4789345264434814,4
+Mercury_7122448,Planets in the solar system are in constant motion. What factor has the greatest effect on the orbits of the planets?,B,A,0,0.7209547719022247,-13.212010860443115,-2.642402172088623,0.9600353240966797,4
+Mercury_SC_416516,How is a pond different from a lake?,B,A,0,0.7736132268275379,-22.25887155532837,-3.7098119258880615,1.5667738914489746,4
+MCAS_2016_8_3,A substance with a mass of 10 g is heated to produce two new substances. The mass of the first new substance is 9.3 g and the mass of the second new substance is 0.7 g. Which of the following is best demonstrated by this example?,C,A,0,0.8435888784493506,-17.502477645874023,-8.751238822937012,2.565397262573242,4
+Mercury_7030153,"The cilia in the respiratory system are responsible for preventing dirt and mucus from entering the bronchial tubes and lungs. If the cilia are damaged, the person's bronchial tubes and lungs are most likely to",C,C,1,0.770673143892179,-19.879039764404297,-4.969759941101074,1.249021053314209,4
+AKDE&ED_2012_8_43,Which two traits would best distinguish a bird from other vertebrates?,C,C,1,0.9556325366393099,-17.57644271850586,-5.858814239501953,3.4131903648376465,4
+NYSEDREGENTS_2014_8_10,A green plant absorbs light. A frog eats flies. These are both examples of how organisms,1,1,1,0.5566751093590872,-15.434321403503418,-7.717160701751709,0.826024055480957,4
+Mercury_SC_LBS10938,Which of these scientific advances occurred first?,D,A,0,0.9851381811547629,-17.29092836380005,-3.4581856727600098,4.6314005851745605,4
