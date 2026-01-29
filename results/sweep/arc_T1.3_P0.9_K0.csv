@@ -1,0 +1,26 @@
+id,question,answer_key,predicted_label,is_correct,confidence,top1_sum_logprob,top1_avg_logprob,margin,num_choices
+MCAS_2000_4_6,Which technology was developed most recently?,A,A,1,0.25,-inf,-inf,,4
+Mercury_7057260,A student hypothesizes that algae are producers. Which question will best help the student determine if this is correct?,C,A,0,0.8382226428863784,-24.376346588134766,-4.062724590301514,1.6758537292480469,4
+ACTAAP_2014_7_6,Soccer players use their muscle systems to kick a ball into a goal. What organ system coordinates the muscles?,A,A,1,0.8231446745299023,-8.489992141723633,-2.8299973011016846,2.1292028427124023,4
+Mercury_7122448,Planets in the solar system are in constant motion. What factor has the greatest effect on the orbits of the planets?,B,A,0,0.692924155315793,-14.42059326171875,-2.8841185569763184,0.8322048187255859,4
+Mercury_SC_416516,How is a pond different from a lake?,B,A,0,0.8567691825660135,-23.502025604248047,-3.917004346847534,2.197999954223633,4
+MCAS_2016_8_3,A substance with a mass of 10 g is heated to produce two new substances. The mass of the first new substance is 9.3 g and the mass of the second new substance is 0.7 g. Which of the following is best demonstrated by this example?,C,A,0,1.0,-16.03494644165039,-8.017473220825195,inf,4
+Mercury_7030153,"The cilia in the respiratory system are responsible for preventing dirt and mucus from entering the bronchial tubes and lungs. If the cilia are damaged, the person's bronchial tubes and lungs are most likely to",C,C,1,0.9023247680582654,-18.474206924438477,-4.618551731109619,2.4385299682617188,4
+AKDE&ED_2012_8_43,Which two traits would best distinguish a bird from other vertebrates?,C,B,0,1.0,-22.621707916259766,-5.655426979064941,inf,4
+NYSEDREGENTS_2014_8_10,A green plant absorbs light. A frog eats flies. These are both examples of how organisms,1,3,0,0.5186350924795281,-15.268664360046387,-7.634332180023193,0.25392723083496094,4
+Mercury_SC_LBS10938,Which of these scientific advances occurred first?,D,A,0,0.8499040381925295,-20.10769271850586,-4.021538734436035,2.1522254943847656,4
+ACTAAP_2007_7_19,Which instrument measures atmospheric pressure?,A,A,1,0.25,-inf,-inf,,4
+Mercury_176873,Which of the following is produced during the process of cellular respiration?,A,C,0,0.8255443852444623,-8.355707168579102,-8.355707168579102,2.1289215087890625,4
+Mercury_SC_LBS10170,An anemometer is a tool that measures,B,C,0,0.7410481870389299,-11.942475318908691,-3.980825185775757,1.6158742904663086,4
+Mercury_400978,"The element cesium, Cs, is an alkali metal. Which chemical formula represents a cesium compound that is likely to exist?",A,C,0,0.8289689006376636,-11.601327896118164,-3.8671092987060547,1.578338623046875,4
+Mercury_7185220,The cells of a plant help the plant maintain its life functions. What part of a plant cell has the function of producing sugar in the presence of sunlight?,A,A,1,0.25,-inf,-inf,,4
+Mercury_7213378,A sample of sulfur forms crystals when it,B,A,0,0.49601892468184317,-12.91445541381836,-6.45722770690918,0.13312721252441406,4
+Mercury_7241343,"When a person is infected with the influenza virus, the immune system defends the body through a cell-mediated immune response. Which immune cell is responsible for protecting the body from the influenza virus infection?",D,B,0,1.0,-11.359651565551758,-3.786550521850586,inf,4
+TIMSS_1995_8_J5,Which form of solar radiation causes sunburn?,B,C,0,0.6229010634323835,-6.710596084594727,-3.3552980422973633,1.4018287658691406,5
+Mercury_7271583,About 75% of the world's active volcanoes are the result of tectonic activity around which plate?,C,C,1,0.9389818303705102,-11.336518287658691,-5.668259143829346,3.1617116928100586,4
+Mercury_412415,Which of the following is the most accurate measurement for the length of an object that is actually 15.0 m long?,B,D,0,0.4893731075539224,-11.370584487915039,-2.8426461219787598,0.025447845458984375,4
+Mercury_SC_400175,"After a rainfall, which process in the water cycle draws the water back up into the air?",B,D,0,1.0,-8.361851692199707,-8.361851692199707,inf,4
+Mercury_7006213,"When a person speaks, the type of wave produced can be described as all these except",A,B,0,0.8544126547064218,-13.971354484558105,-6.985677242279053,1.7696380615234375,4
+NCEOGA_2013_5_28,Bill stands in a swimming pool and notices that the water around his feet is a lot cooler than the water near the surface. Which process causes this difference in temperature?,A,A,1,0.25,-inf,-inf,,4
+Mercury_SC_407569,Andy adds a small amount of water to sand and makes shapes with the wet sand. Which of these best describes the wet sand?,A,A,1,0.7250726976031406,-12.978992462158203,-6.489496231079102,1.3555374145507812,4
+MCAS_1999_8_35,To observe materials up close and in greater detail we use,B,B,1,1.0,-18.461769104003906,-6.153923034667969,inf,4

@@ -1,0 +1,26 @@
+id,question,answer_key,predicted_label,is_correct,confidence,top1_sum_logprob,top1_avg_logprob,margin,num_choices
+MCAS_2000_4_6,Which technology was developed most recently?,A,B,0,0.7137354305517284,-13.675689697265625,-13.675689697265625,1.0154190063476562,4
+Mercury_7057260,A student hypothesizes that algae are producers. Which question will best help the student determine if this is correct?,C,A,0,0.9727623334126745,-22.859439849853516,-3.8099067211151123,3.8647804260253906,4
+ACTAAP_2014_7_6,Soccer players use their muscle systems to kick a ball into a goal. What organ system coordinates the muscles?,A,A,1,0.8348032442246249,-7.089040756225586,-2.363013505935669,2.4789342880249023,4
+Mercury_7122448,Planets in the solar system are in constant motion. What factor has the greatest effect on the orbits of the planets?,B,A,0,0.7209549656606202,-13.21200942993164,-2.642401933670044,0.9600362777709961,4
+Mercury_SC_416516,How is a pond different from a lake?,B,A,0,0.7736138852840446,-22.258869171142578,-3.7098114490509033,1.5667781829833984,4
+MCAS_2016_8_3,A substance with a mass of 10 g is heated to produce two new substances. The mass of the first new substance is 9.3 g and the mass of the second new substance is 0.7 g. Which of the following is best demonstrated by this example?,C,A,0,0.8435888818951334,-17.502477645874023,-8.751238822937012,2.565397262573242,4
+Mercury_7030153,"The cilia in the respiratory system are responsible for preventing dirt and mucus from entering the bronchial tubes and lungs. If the cilia are damaged, the person's bronchial tubes and lungs are most likely to",C,C,1,0.7706732251023304,-19.879039764404297,-4.969759941101074,1.2490215301513672,4
+AKDE&ED_2012_8_43,Which two traits would best distinguish a bird from other vertebrates?,C,C,1,0.955632550981719,-17.57644271850586,-5.858814239501953,3.4131908416748047,4
+NYSEDREGENTS_2014_8_10,A green plant absorbs light. A frog eats flies. These are both examples of how organisms,1,1,1,0.5566750996762251,-15.434321403503418,-7.717160701751709,0.826024055480957,4
+Mercury_SC_LBS10938,Which of these scientific advances occurred first?,D,A,0,0.9851381881361083,-17.29092788696289,-3.4581856727600098,4.631401062011719,4
+ACTAAP_2007_7_19,Which instrument measures atmospheric pressure?,A,C,0,0.6735392030029909,-13.43873119354248,-6.71936559677124,1.072056770324707,4
+Mercury_176873,Which of the following is produced during the process of cellular respiration?,A,C,0,0.8648972327952252,-8.964815139770508,-8.964815139770508,2.6288232803344727,4
+Mercury_SC_LBS10170,An anemometer is a tool that measures,B,C,0,0.8270521790894904,-11.364645004272461,-3.788214921951294,2.053098678588867,4
+Mercury_400978,"The element cesium, Cs, is an alkali metal. Which chemical formula represents a cesium compound that is likely to exist?",A,C,0,0.8861334233710629,-11.604917526245117,-3.8683059215545654,2.0518417358398438,4
+Mercury_7185220,The cells of a plant help the plant maintain its life functions. What part of a plant cell has the function of producing sugar in the presence of sunlight?,A,C,0,0.945297944926922,-11.675349235534668,-5.837674617767334,3.5100669860839844,4
+Mercury_7213378,A sample of sulfur forms crystals when it,B,C,0,0.4269203205216901,-13.189718246459961,-4.396572589874268,0.10803031921386719,4
+Mercury_7241343,"When a person is infected with the influenza virus, the immune system defends the body through a cell-mediated immune response. Which immune cell is responsible for protecting the body from the influenza virus infection?",D,B,0,0.9962443755554067,-11.963639259338379,-3.987879753112793,5.709769248962402,4
+TIMSS_1995_8_J5,Which form of solar radiation causes sunburn?,B,C,0,0.6584825318605161,-6.759648323059082,-3.379824161529541,1.612441062927246,5
+Mercury_7271583,About 75% of the world's active volcanoes are the result of tectonic activity around which plate?,C,C,1,0.9654299533898871,-11.336272239685059,-5.668136119842529,3.977726936340332,4
+Mercury_412415,Which of the following is the most accurate measurement for the length of an object that is actually 15.0 m long?,B,D,0,0.8317199111971889,-9.395803451538086,-2.3489508628845215,1.700800895690918,4
+Mercury_SC_400175,"After a rainfall, which process in the water cycle draws the water back up into the air?",B,D,0,0.9206728377068543,-9.270203590393066,-9.270203590393066,2.6074657440185547,4
+Mercury_7006213,"When a person speaks, the type of wave produced can be described as all these except",A,C,0,0.4806886714484829,-14.445981979370117,-7.222990989685059,0.34869861602783203,4
+NCEOGA_2013_5_28,Bill stands in a swimming pool and notices that the water around his feet is a lot cooler than the water near the surface. Which process causes this difference in temperature?,A,B,0,0.4578162588712859,-13.020374298095703,-4.340124607086182,0.7767267227172852,4
+Mercury_SC_407569,Andy adds a small amount of water to sand and makes shapes with the wet sand. Which of these best describes the wet sand?,A,A,1,0.8156761815914133,-13.016722679138184,-6.508361339569092,1.7621994018554688,4
+MCAS_1999_8_35,To observe materials up close and in greater detail we use,B,B,1,0.594605447857091,-18.443586349487305,-6.147861957550049,0.43587303161621094,4

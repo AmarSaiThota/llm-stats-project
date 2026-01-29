@@ -1,0 +1,26 @@
+id,question,answer_key,predicted_label,is_correct,confidence,top1_sum_logprob,top1_avg_logprob,margin,num_choices
+MCAS_2000_4_6,Which technology was developed most recently?,A,A,1,0.25,-inf,-inf,,4
+Mercury_7057260,A student hypothesizes that algae are producers. Which question will best help the student determine if this is correct?,C,A,0,0.8312937481938684,-24.700748443603516,-4.116791248321533,1.6217288970947266,4
+ACTAAP_2014_7_6,Soccer players use their muscle systems to kick a ball into a goal. What organ system coordinates the muscles?,A,A,1,0.8255596955044161,-8.65132999420166,-2.8837766647338867,2.1405153274536133,4
+Mercury_7122448,Planets in the solar system are in constant motion. What factor has the greatest effect on the orbits of the planets?,B,A,0,0.6929422114787219,-14.690731048583984,-2.9381461143493652,0.8322896957397461,4
+Mercury_SC_416516,How is a pond different from a lake?,B,A,0,0.8692983204144468,-23.826379776000977,-3.9710633754730225,2.302499771118164,4
+MCAS_2016_8_3,A substance with a mass of 10 g is heated to produce two new substances. The mass of the first new substance is 9.3 g and the mass of the second new substance is 0.7 g. Which of the following is best demonstrated by this example?,C,A,0,0.8896729451128129,-16.14307975769043,-8.071539878845215,2.121419906616211,4
+Mercury_7030153,"The cilia in the respiratory system are responsible for preventing dirt and mucus from entering the bronchial tubes and lungs. If the cilia are damaged, the person's bronchial tubes and lungs are most likely to",C,C,1,0.9081890244728869,-18.636301040649414,-4.6590752601623535,2.524045944213867,4
+AKDE&ED_2012_8_43,Which two traits would best distinguish a bird from other vertebrates?,C,C,1,0.9951215762688658,-17.51993179321289,-5.839977264404297,5.318042755126953,4
+NYSEDREGENTS_2014_8_10,A green plant absorbs light. A frog eats flies. These are both examples of how organisms,1,1,1,0.4817788901257663,-14.79730224609375,-7.398651123046875,0.5794715881347656,4
+Mercury_SC_LBS10938,Which of these scientific advances occurred first?,D,A,0,0.8428772417542604,-20.377986907958984,-4.075597286224365,2.0981674194335938,4
+ACTAAP_2007_7_19,Which instrument measures atmospheric pressure?,A,A,1,0.25,-inf,-inf,,4
+Mercury_176873,Which of the following is produced during the process of cellular respiration?,A,C,0,0.8288691665312551,-8.409767150878906,-8.409767150878906,2.1289215087890625,4
+Mercury_SC_LBS10170,An anemometer is a tool that measures,B,C,0,0.7410472386863928,-12.104654312133789,-4.034884929656982,1.6158695220947266,4
+Mercury_400978,"The element cesium, Cs, is an alkali metal. Which chemical formula represents a cesium compound that is likely to exist?",A,C,0,0.8289689301514825,-11.763510704040527,-3.921170234680176,1.578338623046875,4
+Mercury_7185220,The cells of a plant help the plant maintain its life functions. What part of a plant cell has the function of producing sugar in the presence of sunlight?,A,C,0,0.9949250697410501,-10.176259994506836,-5.088129997253418,5.278354644775391,4
+Mercury_7213378,A sample of sulfur forms crystals when it,B,A,0,0.4140658455776278,-13.022590637207031,-6.511295318603516,0.17559814453125,4
+Mercury_7241343,"When a person is infected with the influenza virus, the immune system defends the body through a cell-mediated immune response. Which immune cell is responsible for protecting the body from the influenza virus infection?",D,B,0,1.0,-11.52103042602539,-3.840343475341797,inf,4
+TIMSS_1995_8_J5,Which form of solar radiation causes sunburn?,B,C,0,0.6185379195979372,-6.817180156707764,-3.408590078353882,1.3493027687072754,5
+Mercury_7271583,About 75% of the world's active volcanoes are the result of tectonic activity around which plate?,C,C,1,0.939285298062914,-11.444658279418945,-5.722329139709473,3.1617040634155273,4
+Mercury_412415,Which of the following is the most accurate measurement for the length of an object that is actually 15.0 m long?,B,D,0,0.489360268634499,-11.586852073669434,-2.8967130184173584,0.025394439697265625,4
+Mercury_SC_400175,"After a rainfall, which process in the water cycle draws the water back up into the air?",B,D,0,0.9088022303675835,-8.415897369384766,-8.415897369384766,2.2990970611572266,4
+Mercury_7006213,"When a person speaks, the type of wave produced can be described as all these except",A,C,0,0.5844240685682488,-13.588876724243164,-6.794438362121582,0.4906129837036133,4
+NCEOGA_2013_5_28,Bill stands in a swimming pool and notices that the water around his feet is a lot cooler than the water near the surface. Which process causes this difference in temperature?,A,B,0,0.8154728392985934,-12.510345458984375,-4.170114994049072,1.485971450805664,4
+Mercury_SC_407569,Andy adds a small amount of water to sand and makes shapes with the wet sand. Which of these best describes the wet sand?,A,A,1,0.7250728973348821,-13.087120056152344,-6.543560028076172,1.3555374145507812,4
+MCAS_1999_8_35,To observe materials up close and in greater detail we use,B,B,1,0.5366942397072522,-18.623947143554688,-6.207982540130615,0.14704132080078125,4
