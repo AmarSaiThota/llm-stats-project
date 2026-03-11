@@ -1,5 +1,5 @@
 # How Sampling Choices and Probability Calibration Affect LLM Outputs
-**A Comprehensive 10-Day Empirical Study on GPT-2**
+**A Comprehensive 10-Week Empirical Study on GPT-2**
 
 ## 1. Introduction
 The advent of Large Language Models (LLMs) has sparked significant interest in generation strategies. The choice of decoding parameters—such as Temperature ($T$), Top-$p$ (nucleus sampling), and Top-$k$—fundamentally alters the output behavior of the LLMs. This study aims to answer a core tripartite question: 
