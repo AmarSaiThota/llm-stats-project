@@ -4,7 +4,7 @@ import seaborn as sns
 import os
 
 def plot_tradeoffs(csv_path="results/sweep_master_results.csv", output_dir="figures/"):
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, keep_default_na=False)  # "None" = truncation off; NaN would be dropped by seaborn
     os.makedirs(output_dir, exist_ok=True)
     
     # 1. Accuracy vs Temperature (colored by top-p or top-k)
@@ -47,7 +47,7 @@ def plot_tradeoffs(csv_path="results/sweep_master_results.csv", output_dir="figu
     print(f"Generated tradeoff plots in {output_dir}")
 
 def write_findings(csv_path="results/sweep_master_results.csv", output_path="results/findings_notes.md"):
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, keep_default_na=False)  # "None" = truncation off; NaN would be dropped by seaborn
     
     # Extract bests
     best_acc = df.loc[df['accuracy'].idxmax()]
